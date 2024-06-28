@@ -1,1 +1,1 @@
-vless://759d7f37-66cc-4745-8341-83e4ea4c6494@5.34.194.226:443?type=ws&path=%2Fpak&host=5.34.194.226&security=none#%F0%9F%87%A9%F0%9F%87%AA-hamid
+vless://759d7f37-66cc-4745-8341-83e4ea4c6494@5.34.194.226:443?type=ws&path=%2Fpak&host=5.34.194.226&security=none#%F0%9F%87%A9%F0%9F%87%AA-hamidiiiiiiiiii
